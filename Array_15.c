@@ -33,8 +33,9 @@ int main(){
     printf("\nEntered Marks:\n");
     for(int i = 0; i < 2; i++){
         for(int j = 0; j < 3;j++){
-        printf("marks[%d][%d] = %d\n",i,j,marks[i][j]);
+        printf("%d ",marks[i][j]);
         }
+        printf("\n");
     }
 
     return 0;
