@@ -1,3 +1,4 @@
+/* functions are used to divide a large c program into a smaller pieces */
 #include<stdio.h>
 // Declaration & call
 /* with arguments & with return value */
